@@ -8,9 +8,9 @@
 
 
 
-- 🔭 I’m currently working on ADN Diginet and my responsibility to design , development and bug fixing in Roboket project which is AI automated omnichannel Sales service.
-- [Roboket live link]: (https://apps.roboket.com)
-- Also had an expericence from Ghorami Techlonoly where i was responsible for designing, development, improvment on various projects. Such as Nobovabna, Ghorami, Shopnobari including Admin panel.
+- 🔭 I’m currently working on ADN Diginet and my responsibility to design, development and bug fixing in Roboket project which is AI automated omnichannel Sales service.
+- [Roboket](https://apps.roboket.com)
+- Also had an experience from Ghorami Technology where I was responsible for designing, developing, improvement on various projects. Such as Nobovabna, Ghorami, and Shopnobari including  Admin panel.
 -  [G-desk of Ghorami](https://gdesk.ghorami.com/)
 
 - 🌱 I’m currently learning **React Native, Graphql, Aws**
