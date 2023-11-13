@@ -1,4 +1,6 @@
-[![MasterHead](https://media2.giphy.com/media/SpopD7IQN2gK3qN4jS/giphy.gif?cid=790b7611b5e618bddc489e5db07cbcd884efc0d33e20937f&rid=giphy.gif&ct=g)]
+<p align="center">
+    <img src="https://media2.giphy.com/media/SpopD7IQN2gK3qN4jS/giphy.gif?cid=790b7611b5e618bddc489e5db07cbcd884efc0d33e20937f&rid=giphy.gif&ct=g" alt="Your alt text" width="100%">
+</p>
 <h1 align="center">Hi 👋, I'm Anamul Haque Shanto</h1>
 <h3 align="center">A passionate frontend react developer from Bangladesh</h3>
 <img align="right" alt="coding" width="400" height="100%" src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966">
@@ -6,9 +8,12 @@
 
 
 
-- 🔭 I’m currently working on Ghorami Technology [G-desk of Ghorami](https://gdesk.ghorami.com/)
+- 🔭 I’m currently working on ADN Diginet and my responsibility to design , development and bug fixing in Roboket project which is AI automated omnichannel Sales service.
+- [Roboket live link]: (https://apps.roboket.com)
+- Also had an expericence from Ghorami Techlonoly where i was responsible for designing, development, improvment on various projects. Such as Nobovabna, Ghorami, Shopnobari including Admin panel.
+-  [G-desk of Ghorami](https://gdesk.ghorami.com/)
 
-- 🌱 I’m currently learning **Typescritp, Aws**
+- 🌱 I’m currently learning **React Native, Graphql, Aws**
 
 - 👨‍💻 All of my projects are available at [https://anamul-portfolio.netlify.app/](https://anamul-portfolio.netlify.app/)
 
